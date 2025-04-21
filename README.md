@@ -160,8 +160,10 @@ J 0 <br>
 <hr>
 <h2>Sample Output</h2>
 <hr>
+
 Path found: ['A', 'F', 'G', 'I', 'J']
 
+![Screenshot 2025-04-21 195541](https://github.com/user-attachments/assets/efd6a1ab-52ae-405e-a265-3f69c660b09e)
 
 <hr>
 <h2>Sample Graph II</h2>
@@ -188,10 +190,12 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
-
-Path found: ['A', 'F', 'G', 'I', 'J']
-
-![Screenshot 2025-04-21 195541](https://github.com/user-attachments/assets/b3617c68-abe0-4973-b908-d5c50d7b6c75)
-
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+![Screenshot 2025-04-21 200004](https://github.com/user-attachments/assets/76f66eb1-7526-41c6-9fcd-0c2f58d2f6e5)
+
+<h2>Result</h2>
+
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
+
